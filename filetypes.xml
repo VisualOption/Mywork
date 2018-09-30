@@ -5,6 +5,7 @@
       <mapping pattern="Lesson1" type="CLASS" />
       <mapping pattern="LoopsHW" type="PLAIN_TEXT" />
       <mapping pattern="LoopsHW2" type="PLAIN_TEXT" />
+      <mapping pattern="ConditionsHW" type="PLAIN_TEXT" />
       <mapping pattern="ConditionalsHW" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
